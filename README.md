@@ -1,4 +1,4 @@
-# Synthetic_sales-explanatory-data-analysis
+# Synthetic Sales - Explanatory Data Analysis
 • Dataset source (synthetic retail sales data)
 
 • Objective (analyze revenue, customer behavior, discounts)
