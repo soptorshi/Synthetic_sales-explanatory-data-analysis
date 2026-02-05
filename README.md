@@ -11,4 +11,4 @@
   3. Zero-discount orders generate higher order value
 
 
-• [Tableau Dashboard] (https://public.tableau.com/views/Synthetic_SalesEDA/RatingCategoryvsAvg_Amount?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+• [https://public.tableau.com/views/Synthetic_SalesEDA/RatingCategoryvsAvg_Amount?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
